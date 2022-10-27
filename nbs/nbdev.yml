@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-site"
+  site-url: "https://bahmanapl.github.io/nbdev-site"
+  description: "fastai blog"
+  repo-branch: main
+  repo-url: "https://github.com/bahmanapl/nbdev-site"
